@@ -1,0 +1,48 @@
+Privacy Policy for Lumina AI
+Last Updated: December 2025
+
+At Lumina AI, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+
+1. Information We Collect
+We only collect the minimum amount of data necessary to provide our AI-powered photo and voice editing services:
+
+Images: When you use a feature like "Restore" or "Magic Edit," you upload an image to our secure processing servers.
+
+Voice Data: If you use "Voice Edit," the app records a short audio clip of your command to convert it into text.
+
+Usage Data: We may collect anonymous analytics, such as which features are used most frequently, to improve the app’s performance.
+
+2. How We Process Your Data
+Ephemeral Processing: Your images and audio are sent via encrypted connections (HTTPS) to our AI processing partners (e.g., Replicate).
+
+No Permanent Storage: We do not store your uploaded images or voice recordings permanently on our servers. Once the AI task is completed and the result is delivered to your device, the source data is automatically deleted.
+
+No Data Selling: We do not sell your personal data, images, or audio to third parties.
+
+3. App Permissions
+To function correctly, Lumina AI requires the following permissions on your device:
+
+Gallery/Storage: To allow you to pick photos for editing and save the final results back to your device.
+
+Microphone: Required only for the "Voice Edit" feature to record your spoken commands.
+
+Internet Access: Necessary to communicate with our AI servers for image processing.
+
+4. Payments and Subscriptions
+All financial transactions are handled securely by the Google Play Store. Lumina AI does not collect or store your credit card numbers or billing addresses. Your subscription status is managed via your Google Account.
+
+5. Third-Party Services
+We utilize trusted third-party providers to execute complex AI tasks:
+
+Replicate API: For image enhancement, background removal, and voice-to-text transcription.
+
+Google Play Services: For app distribution and in-app purchase management.
+
+6. Security
+We implement industry-standard security measures to protect your data during transmission. However, please be aware that no method of transmission over the internet is 100% secure.
+
+7. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the app's settings.
+
+8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: support@luminaai.com.
